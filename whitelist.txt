@@ -1003,3 +1003,5 @@ feedly.com
 1337x.to
 thepiratebay.se
 thepiratebay.org
+www.opensubtitles.org
+opensubtitles.org
