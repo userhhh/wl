@@ -22,8 +22,16 @@ ws-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 ws-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 
-# Begin Unbreak whitelist.
+#torrents
 
+rarbg.to
+1337x.to
+thepiratebay.se
+thepiratebay.org
+www.opensubtitles.org
+opensubtitles.org
+
+# Begin Unbreak whitelist.
 
 0-edge-chat.facebook.com
 0.client-channel.google.com
@@ -937,7 +945,7 @@ use.typekit.net
 v.firebog.net
 v.shopify.com
 v.whatsapp.net
-v10.vortex-win.data.microsoft.com
+v10.vortex-win.data.microsoft.com #win10 update
 v20.vortex-win.data.microsoft.com
 viber.com
 video-api.wsj.com
@@ -1000,8 +1008,6 @@ zomato.com
 zoom.us
 best.aliexpress.com
 feedly.com
-1337x.to
-thepiratebay.se
-thepiratebay.org
-www.opensubtitles.org
-opensubtitles.org
+tags.tiqcdn.com #analytics openbank
+www.linkedin.com
+www.msftncsi.com #Windows uses this to verify connectivity to Internet
