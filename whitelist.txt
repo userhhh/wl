@@ -893,7 +893,6 @@ tedcdn.com
 text.getpocket.com
 textshot.medium.com
 the.earth.li
-theandroidsoul.com
 theguardian.com
 themoviedb.com
 thetvdb.com
@@ -996,4 +995,5 @@ feedly.com
 tags.tiqcdn.com #analytics openbank
 www.linkedin.com
 www.msftncsi.com #Windows uses this to verify connectivity to Internet
+www.paypalobjects.com
 #MAX 1000
