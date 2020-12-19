@@ -995,4 +995,5 @@ www.linkedin.com
 www.msftncsi.com #Windows uses this to verify connectivity to Internet
 www.paypalobjects.com
 gameloft.com
+201205igp.gameloft.com
 #MAX 1000
