@@ -619,7 +619,6 @@ media.fzty2-1.fna.whatsapp.net
 media.licdn.com
 media.sbs.com.au
 media.wired.com
-medium.com
 medium.freecodecamp.org
 meetu.ps
 meetup.com
@@ -884,7 +883,6 @@ t.purch.com
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 tagcommander.com
-tawk.to
 tc.tradetracker.com
 techradar.com
 techrepublic.com
@@ -996,4 +994,5 @@ tags.tiqcdn.com #analytics openbank
 www.linkedin.com
 www.msftncsi.com #Windows uses this to verify connectivity to Internet
 www.paypalobjects.com
+gameloft.com
 #MAX 1000
