@@ -1,19 +1,12 @@
 # This was added at the request of the developer of Diversion
 aax-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 aax-us-east.amazon-adsystem.com # whitelisted for smallnetbuilder.com
-ad2.netshelter.net # whitelisted for smallnetbuilder.com
-assets.omidoo.com # whitelisted for smallnetbuilder.com
-flashtalking.com # whitelisted for smallnetbuilder.com
 fls-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 images-na.ssl-images-amazon.com # whitelisted for smallnetbuilder.com
 ir-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 ir-uk.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 #pagead2.googlesyndication.com # whitelisted for smallnetbuilder.com
 servedby.flashtalking.com # whitelisted for smallnetbuilder.com
-tgdaily.com # whitelisted for smallnetbuilder.com
-tgdaily.net # whitelisted for smallnetbuilder.com
-vma.tgdaily.com # whitelisted for smallnetbuilder.com
-vma.tgdaily.net # whitelisted for smallnetbuilder.com
 wms-eu.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 wms-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 wms-na.assoc-amazon.com # whitelisted for smallnetbuilder.com
@@ -23,9 +16,17 @@ z-na.amazon-adsystem.com # whitelisted for smallnetbuilder.com
 #custom
 segurcaixaadeslas.es
 saludybienestar.segurcaixaadeslas.es
-adeslasdental.es
 evobanco.com
 hkj8.evobanco.com
+#gamepass
+xbox.com
+gamepass.com
+microsoft.com
+microsoftonline.com
+settings-win.data.microsoft.com
+vortex.data.microsoft.com
+store-images.s-microsoft.com
+catalog.gamepass.com
 #torrents
 rarbg.to
 1337x.to
@@ -341,8 +342,6 @@ edgekey.net
 eds.xboxlive.com
 eff.org
 elasticbeanstalk.com
-electionsdata.ndtv.com
-elephantjournal.com
 email.appsumo.com
 email.uber.com
 emjcd.com
@@ -484,7 +483,6 @@ imgs.xkcd.com
 in.linkedin.com
 in.yahoo.com
 inc.com
-indianexpress.com
 inference.location.live.net
 instantmessaging-pa.googleapis.com
 intercom.io
@@ -631,8 +629,6 @@ meta.plex.tv
 meta.wikimedia.org
 metrics.plex.tv
 mi.com
-microsoft.com
-microsoftonline.com
 miro.medium.com
 mirror.cedia.org.ec
 mirror1.malwaredomains.com
@@ -826,7 +822,6 @@ service.weather.microsoft.com
 services.addons.mozilla.org
 services.medium.com
 services.sonarr.tv
-settings-win.data.microsoft.com
 shareaholic.com
 shareasale.com
 sharepoint.com
@@ -870,7 +865,6 @@ static2cdn.hubspot.com
 status.plex.tv
 stitcher.pluto.tv
 storage.googleapis.com
-store-images.s-microsoft.com
 storeedgefd.dsx.mp.microsoft.com
 subscribe.wired.com
 support.microsoft.com
